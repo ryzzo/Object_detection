@@ -1,0 +1,8 @@
+tensorflow==2.8.2
+keras==2.8.0
+numpy==1.22.4
+protobuf==3.19.6         
+tflite-support==0.4.1    
+tf-slim
+pycocotools
+lvis
